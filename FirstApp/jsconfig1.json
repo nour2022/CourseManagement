@@ -1,0 +1,3 @@
+{
+  "Connection String": "Server = WIN-PSBVNCG294F\\MSSQLSERVER01 ; Database = ITInstitute ; Integrated Security = SSPI ; TrustServerCertificate=true"
+}
